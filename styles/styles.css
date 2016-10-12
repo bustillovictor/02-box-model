@@ -1,0 +1,37 @@
+body{
+  margin: 0;
+  font-family: sans-serif;
+}
+
+.container {
+  max-width: 60rem;
+  margin: auto;
+}
+
+.top-bar {
+  background: #2186be;
+  color: white;
+  overflow: auto;
+  padding: 0 1rem;
+}
+
+.top-bar-left, .top-bar-right {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+}
+
+.top-bar-left {
+  float: left;
+}
+
+.top-bar-right {
+  float: right;
+}
+
+.top-bar-link {
+  margin-left: 1rem;
+  text-decoration: none;
+  color: white;
+
+
+}
